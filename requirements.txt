@@ -11,4 +11,4 @@ Werkzeug==2.2.2
 zipp==3.10.0
 spacy
 beautifulsoup4
-en-core-web-sm==3.5.0
+en-core-web-sm==3.0.0
